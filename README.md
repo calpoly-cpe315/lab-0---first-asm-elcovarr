@@ -17,3 +17,8 @@ professional, and are easy to read. Use the
 [Markdown Guide](https://guides.github.com/features/mastering-markdown/), and
 have fun! :octocat:
 
+### Elissa Covarrubias
+#### Status of lab: :white_check_mark: Complete
+
+#### Questions:
+        * How do you properly make a Makefile?
